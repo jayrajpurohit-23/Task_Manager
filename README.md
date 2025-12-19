@@ -18,11 +18,10 @@ A simple and efficient **Task Manager** application to help users create, manage
 
 ## 🛠️ Technologies Used
 
-> Update this section according to your stack
 
-- Frontend: HTML, CSS, JavaScript / Flutter / React  
-- Backend: Node.js / PHP / Django / Firebase  
-- Database: MySQL / SQLite / MongoDB / Firebase  
+- Frontend: HTML, CSS, JavaScript   
+- Backend: PHP  
+- Database: MySQL   
 - Version Control: Git & GitHub  
 
 
