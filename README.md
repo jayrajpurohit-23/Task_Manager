@@ -35,5 +35,4 @@ If you want, I can:
 
 Just tell me 👍
 
-## 📂 Project Structure
 
