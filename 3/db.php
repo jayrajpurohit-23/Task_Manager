@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $user = "root";
-$pass = "admin";
+$pass = "";
 $dbname = "task_manager";
 
 $conn = mysqli_connect($host, $user, $pass, $dbname);
@@ -11,3 +11,4 @@ if (!$conn) {
 }
 // echo "Database connected successfully!";
 ?>
+
