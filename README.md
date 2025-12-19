@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ae581767-7fe3-45da-8d6c-9bddea902481" /># 🗂️ Task Manager Application
+# 🗂️ Task Manager Application
 
 A simple and efficient **Task Manager** application to help users create, manage, and track daily tasks with ease. This project is designed to improve productivity by organizing tasks with priorities, deadlines, and status tracking.
 
