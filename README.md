@@ -20,12 +20,11 @@ A simple and efficient **Task Manager** application to help users create, manage
 
 > Update this section according to your stack
 
-- **Frontend:** HTML, CSS, JavaScript / Flutter / React  
-- **Backend:** Node.js / PHP / Django / Firebase  
-- **Database:** MySQL / SQLite / MongoDB / Firebase  
-- **Version Control:** Git & GitHub  
+- Frontend: HTML, CSS, JavaScript / Flutter / React  
+- Backend: Node.js / PHP / Django / Firebase  
+- Database: MySQL / SQLite / MongoDB / Firebase  
+- Version Control: Git & GitHub  
 
----
 
 ---
 
